@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/sqldeveloper](INSTALL.md#inst
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/sql-developer/graphs/contributors).
 
 [![A Percova](https://avatars0.githubusercontent.com/u/14076184?v=3&s=70)](https://github.com/apercova)  
 --- 
