@@ -9,7 +9,7 @@ __See original instructions providing by [Ozmoroz](https://github.com/ozmoroz/oz
 Windows:  
 ```%APPDATA%\SQL Developer\systemn.n.n.n.n.n\o.ide.n.n.n.n.n.n.n```  
 Example:  
-```C:\Users\apercova\AppData\Roaming\SQL Developer\system3.2.20.09.87\o.ide.11.1.1.4.37.59.48```  
+```C:\Users\dracula\AppData\Roaming\SQL Developer\system3.2.20.09.87\o.ide.11.1.1.4.37.59.48```  
 &nbsp;  
 Linux or Mac OS X:  
 ```~/.sqldeveloper/systemn.n.n.n.n.n/o.ide.n.n.n.n.n.n.n```  
