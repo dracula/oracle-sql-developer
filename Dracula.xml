@@ -8,7 +8,7 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="base-number-style" usepfg="false" frgb="-7607811" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="base-identifier-style" usepfg="false" frgb="-3238657" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="base-brace-style" usepfg="false" frgb="-34362" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="base-operator-style" usepfg="false" frgb="-108" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="base-operator-style" usepfg="false" frgb="-34362" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="base-markup-style" usepfg="false" frgb="-34362" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="base-element-style" usepfg="false" frgb="-34362" usepbg="false" brgb="-14144970" usepfont="false" font="1"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="base-attribute-name-style" usepfg="false" frgb="-11470213" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
@@ -22,7 +22,7 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="java-literals-style" usepfg="false" frgb="-10040065" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="java-number-style" usepfg="true" frgb="-7607811" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="java-identifier-style" usepfg="true" frgb="-3238657" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="java-operator-style" usepfg="true" frgb="-108" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="java-operator-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="java-brace-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="java-sqlj-style" usepfg="false" frgb="-13312" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="javadoc-comment-style" usepfg="false" frgb="-10325340" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
@@ -51,7 +51,7 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-identifier-style" usepfg="false" frgb="-3238657" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-number-style" usepfg="false" frgb="-7020801" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-brace-style" usepfg="false" frgb="-34362" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-operator-style" usepfg="false" frgb="-108" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="plsql-operator-style" usepfg="false" frgb="-34362" usepbg="false" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="properties-comment-style" usepfg="true" frgb="-10325340" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="properties-name-style" usepfg="true" frgb="-11470213" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="properties-value-style" usepfg="true" frgb="-460558" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
@@ -61,14 +61,14 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="idl-identifier-style" usepfg="true" frgb="-3238657" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="idl-number-style" usepfg="true" frgb="-7607811" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="idl-brace-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="idl-operator-style" usepfg="true" frgb="-108" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="idl-operator-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="c++-comment-style" usepfg="true" frgb="-10325340" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="c++-string-style" usepfg="true" frgb="-918900" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="c++-keyword-style" usepfg="true" frgb="-11470213" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="c++-identifier-style" usepfg="true" frgb="-3238657" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="c++-number-style" usepfg="true" frgb="-7607811" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="c++-brace-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="c++-operator-style" usepfg="true" frgb="-108" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="c++-operator-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="diff-header-style" usepfg="true" frgb="-4353031" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="diff-addition-style" usepfg="true" frgb="-11470213" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="diff-removal-style" usepfg="true" frgb="-43691" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
@@ -90,21 +90,21 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapdml-identifier-style" usepfg="true" frgb="-3238657" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapdml-number-style" usepfg="true" frgb="-7607811" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapdml-brace-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="olapdml-operator-style" usepfg="true" frgb="-108" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="olapdml-operator-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-comment-style" usepfg="true" frgb="-10325340" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-string-style" usepfg="true" frgb="-918900" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-keyword-style" usepfg="true" frgb="-11470213" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-identifier-style" usepfg="true" frgb="-3238657" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-number-style" usepfg="true" frgb="-7607811" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-brace-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-operator-style" usepfg="true" frgb="-108" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="olapi-operator-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-comment-style" usepfg="true" frgb="-10325340" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-string-style" usepfg="true" frgb="-918900" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-keyword-style" usepfg="true" frgb="-11470213" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-identifier-style" usepfg="true" frgb="-3238657" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-number-style" usepfg="true" frgb="-7607811" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-brace-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-operator-style" usepfg="true" frgb="-108" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-operator-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-bind-var-highlight-style" usepfg="true" frgb="-460558" usepbg="true" brgb="-14144970" usepfont="false" font="1"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-iri-ref-highlight-style" usepfg="false" frgb="-65281" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="sparql-lexical-error" usepfg="true" frgb="-460558" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
@@ -114,7 +114,7 @@
                   <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-identifier-style" usepfg="true" frgb="-3238657" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-number-style" usepfg="false" frgb="-14273" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-brace-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-operator-style" usepfg="true" frgb="-108" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Style" name="hcs-operator-style" usepfg="true" frgb="-34362" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="class oracle.dbtools.worksheet.editor.ClickableScriptErrorPlugin-COMP_STYLE" usepfg="false" frgb="-14144970" usepbg="false" brgb="-1" usepfont="false" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="js-comment-style" usepfg="true" frgb="-460558" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Style" name="js-string-style" usepfg="true" frgb="-460558" usepbg="true" brgb="-14144970" usepfont="true" font="0"/>
