@@ -24,7 +24,7 @@ Example:
 
 ```~/.sqldeveloper/system19.1.0.094.2042/o.ide.13.0.0.1.42.170225.201```
 
-- Locate `<schemeMap>` tag inside dtcache.xml file. Insert the content of the color scheme xml file inside `<schemeMap>` alongside the other colour schemes. Be careful not to break the XML.
+- Locate `<schemeMap>` tag inside dtcache.xml file. Insert the content of the color scheme file [Dracula.xml](https://raw.githubusercontent.com/dracula/oracle-sql-developer/master/Dracula.xml) inside `<schemeMap>` alongside the other colour schemes. Be careful not to break the XML.
 
 ![Insert the contents of color scheme xml file after opening schemeMap tag](https://raw.githubusercontent.com/dracula/oracle-sql-developer/master/images/theme_insert_here.png)
 
